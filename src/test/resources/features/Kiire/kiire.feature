@@ -26,10 +26,10 @@ Feature: Kiire
   Scenario: Validacion del producto link de pagos y su interna
     Given El Usuario abre la aplicacion y visualiza el markeplace
     When  Presencia el producto del Link de pagos y lo selecciona
-    Then  Se abre la interna del Link de pagos y validamos los datos que se visualizan
+    Then  Se abre la interna del Link de pagos y validamos los datos que se visualizante quiero muchhooo
 
   @ProductoCodigoQr
-  Scenario: Validacion del producto Codigo QR y su interna
+  Scenario: Validacion del producto Codigo QR y su internahola mundsad
     Given El Usuario abre la aplicacion y visualiza el markeplace
     When  Presencia el producto del Codigo QR y lo selecciona
     Then  Se abre la interna del Codigo QR y validamos los datos que se visualizan
